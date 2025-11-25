@@ -2,7 +2,7 @@
 package main
 
 import (
-  "./greeting" // Относительный импорт
+  "hexlet-go/greeting" // Относительный импорт
   "fmt"
 )
 
