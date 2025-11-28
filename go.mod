@@ -1,4 +1,4 @@
-module hexlet-go
+module github.com/Basil87/hexlet-go/v2
 
 go 1.25.4
 
